@@ -4,3 +4,7 @@ Example:
 Array = [10, 25, 30, 45, 50]
 Search for 30.
 30 is present at index 2
+
+There are two important searching techniques:
+Linear Search
+Binary Search
