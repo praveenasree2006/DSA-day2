@@ -38,3 +38,8 @@ Complexity
 Best case: O(1) → element is first
 Worst case: O(n) → element is last/not present
 Space: O(1)
+
+2. Binary Search
+Binary search is faster than linear search, but there is an important condition:
+The array must be sorted.
+Example:
