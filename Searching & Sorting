@@ -11,3 +11,14 @@ Binary Search
 A. Linear Search
 Linear search checks elements one by one from the beginning.
 Example:
+[10, 25, 30, 45, 50]
+ ↑
+Check 10 → No
+
+[10, 25, 30, 45, 50]
+     ↑
+Check 25 → No
+
+[10, 25, 30, 45, 50]
+         ↑
+Check 30 → Yes
