@@ -3,3 +3,4 @@ Searching means finding whether a particular element exists in a collection and,
 Example:
 Array = [10, 25, 30, 45, 50]
 Search for 30.
+30 is present at index 2
