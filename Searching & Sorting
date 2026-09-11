@@ -56,6 +56,13 @@ Ascending:
 Descending:
 50 40 30 20 10
 
+5. Important Sorting Algorithms
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+
 
 Searching:
 Unsorted → Linear Search → O(n)
