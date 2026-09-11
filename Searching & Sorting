@@ -48,3 +48,17 @@ Complexity
 Best case: O(1)
 Worst case: O(log n)
 Space: O(1) for iterative implementation
+
+4. Sorting
+Sorting means arranging data in a particular order.
+Ascending:
+10 20 30 40 50
+Descending:
+50 40 30 20 10
+
+5. Important Sorting Algorithms
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
