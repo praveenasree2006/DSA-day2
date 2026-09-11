@@ -68,5 +68,12 @@ Unsorted → Linear Search → O(n)
 Sorted → Binary Search → O(log n)
 
 Sorting:
+Basic:
+Bubble → O(n²)
+Selection → O(n²)
+Insertion → O(n²)
 
+Efficient:
+Merge → O(n log n)
+Quick → O(n log n) average
 
