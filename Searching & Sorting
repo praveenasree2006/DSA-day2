@@ -8,3 +8,6 @@ Search for 30.
 There are two important searching techniques:
 Linear Search
 Binary Search
+A. Linear Search
+Linear search checks elements one by one from the beginning.
+Example:
