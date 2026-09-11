@@ -1,3 +1,4 @@
 1. Searching
 Searching means finding whether a particular element exists in a collection and, if it exists, finding its position.
 Example:
+Array = [10, 25, 30, 45, 50]
