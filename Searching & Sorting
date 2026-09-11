@@ -43,3 +43,4 @@ Space: O(1)
 Binary search is faster than linear search, but there is an important condition:
 The array must be sorted.
 Example:
+[10, 20, 30, 40, 50, 60, 70]
