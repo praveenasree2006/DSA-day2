@@ -44,3 +44,7 @@ Binary search is faster than linear search, but there is an important condition:
 The array must be sorted.
 Example:
 [10, 20, 30, 40, 50, 60, 70]
+Complexity
+Best case: O(1)
+Worst case: O(log n)
+Space: O(1) for iterative implementation
